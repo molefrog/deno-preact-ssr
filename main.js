@@ -26,6 +26,7 @@ app.get("*", (c) => {
     <html>
       <head>
         <title>Deno + Preact SSR</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
       </head>
 
       <body>

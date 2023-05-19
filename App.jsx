@@ -26,7 +26,9 @@ export const App = () => {
   return (
     <div>
       <h1>Preact + Deno SSR</h1>
-      <code>useLocation() = "{location}"</code>
+      <p>
+        <code>useLocation() = "{location}"</code>
+      </p>
 
       <Counter />
 
