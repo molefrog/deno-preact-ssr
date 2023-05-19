@@ -1,0 +1,4 @@
+Preact SSR running on Deno example
+
+To run the dev-server `deno task dev`, to watch and build the front-end bundle
+`deno task dev-front`.
